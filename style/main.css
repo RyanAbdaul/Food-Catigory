@@ -285,18 +285,18 @@ aside .special-offer::before {
   .container main .arecipe .info {
     padding: 5px;
     h1 {
-      font-size: 14px;
+      font-size: 10px;
     }
     .date-and-comments {
-      font-size: 10px;
+      font-size: 6px;
       
     }
     p {
-      font-size: 10px;
+      font-size: 8px;
       margin: 5px 0;
     }
     a {
-      font-size: 10px;
+      font-size: 6px;
     }
   }
 }
